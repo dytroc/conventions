@@ -4,7 +4,7 @@ Starting from September 15th, 2023, I would use this commit convention unless wo
 
 ## Commit Approach
 
-It is most recommended to commit "atomically" instead of making bulk commits.
+It is highly recommended to commit "atomically" instead of making bulk commits.
 
 ## Commit Messages
 
