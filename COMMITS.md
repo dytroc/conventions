@@ -20,10 +20,11 @@ The commit messages specification are based on the [Gitmoji Official Specificati
   * scope (optional)
     * Scopes could be added to the commit message to help other contributors to know where the changes have been made.
     * They must be wrapped in parentheses and written in all lowercases. 
+    * Colons must be added after the closing parentheses.
   * message
     * Messages should explain what changes have been made.
     * They must start with a verb and it should be in its capitalized dictionary form.
     * Messages should not exceed 40 characters.
 
 > ### This is an example of a commit message following this convention:
-> :sparkles:(user backend) Add new `GET` endpoint `/settings`
+> :sparkles:(user backend): Add new `GET` endpoint `/settings`
