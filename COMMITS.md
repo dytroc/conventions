@@ -11,7 +11,6 @@ It is highly recommended to commit "atomically" instead of making bulk commits.
 The commit messages specification are based on the [Gitmoji Official Specification](https://gitmoji.dev/specification).
 
 * Commit messages must be written in only Latin alphabets, spaces, brackets, parantheses, numbers, and graves.
-
 * A commit message consists of two or three elements:
   * emoji
     * Emojis should well represent the main purpose of the commit.
